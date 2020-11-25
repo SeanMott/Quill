@@ -1,0 +1,10 @@
+#includeCSS."CSS/navBar.css";
+#includeReact."JS/project.js";
+#devFlag.true;
+
+//nav navBar
+
+//Alumni pic here
+Image(link."http://2.bp.blogspot.com/_3PIhDWrNpms/TQXOvF7ZbuI/AAAAAAAACek/7hk2YC-dIso/w1200-h630-p-k-no-nu/duck+with+bow+tie.jpg", text.this is a duck, width.200, height.200);
+
+//ect other

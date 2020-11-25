@@ -1,0 +1,25 @@
+#includeCSS."CSS/navBar.css";
+#includeReact."JS/project.js";
+#devFlag.true;
+
+Div
+{
+    id.divId;
+
+    Header(text.this is a header of size 4, size.4, color.yellow);
+
+    //this is a comment inside a div
+}
+
+//this is a comment
+
+Div
+{
+    id.divId123;
+
+    Link(link."https://www.youtube.com/watch?v=lqSgsq4Bn2c&list=RDN0CP9zpbmAQ&index=4", text."this is a link");
+
+    Paragraph(id.id43, text.this is a paragraph);
+}
+
+Image(link."http://2.bp.blogspot.com/_3PIhDWrNpms/TQXOvF7ZbuI/AAAAAAAACek/7hk2YC-dIso/w1200-h630-p-k-no-nu/duck+with+bow+tie.jpg", text.this is a duck, width.200, height.200);
